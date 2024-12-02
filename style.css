@@ -2,15 +2,22 @@ body {
   font-family: "Lucida Console", Courier, monospace;
   padding: 1em;
 }
+
 h1 {
   font-family: "Lucida Console", Courier, monospace;
   font-style: oblique;
-  text-align: start;
+  /* text-align: start; */
+  text-align: center;
+
 }
 
 h2 {
   font-family: "Lucida Console", Courier, monospace;
   font-style: oblique;
+  text-align: center;
+}
+
+#ghosthunter-icon {
   text-align: center;
 }
 
